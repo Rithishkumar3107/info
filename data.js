@@ -57,13 +57,13 @@ export const portfolioData = {
       description:
         "Library Management System Using React JS , Express Js , SQL , Bootstrap ",
       img: "./assets/library.png",
-      gitLink: "https://github.com/Karthikeyan-BE/LMS_SQL.git",
+      gitLink: "",
     },
     {
       id: 2,
-      name: "GYM Management",
+      name: "Event Management",
       description:
-        "Gym Management System Using React JS , Express Js , SQL , Bootstrap ",
+        "Gym Management System Using React JS , Express Js , MongoDb and NodeJS ",
       img: "./assets/gym.png",
       gitLink: "",
     },
@@ -73,22 +73,22 @@ export const portfolioData = {
       description:
         "Responsive personal portfolio website using React and Tailwind CSS",
       img: "./assets/portfolio.png",
-      gitLink: "https://github.com/Karthikeyan-BE/portfolio.git",
+      gitLink: "",
     },
     {
       id: 4,
-      name: "weather App",
-      description: "Real time weather data using rapid weather api",
+      name: "Learning Management System",
+      description: "E-Learning Platform using Mern Stack",
       img: "./assets/weather.jpeg",
-      gitLink: "https://github.com/Karthikeyan-BE/Weather_MERN.git",
+      gitLink: "",
     },
     {
-      id: 5,
-      name: "Todo",
-      description:
-        "Responsive Todo app with Login Build with Tailwind , React , Zustand , Express , MongoDB",
-      img: "./assets/todo.jpeg",
-      gitLink: "https://github.com/Karthikeyan-BE/Todo_Mern.git",
-    },
+    //   id: 5,
+    //   name: "Todo",
+    //   description:
+    //     "Responsive Todo app with Login Build with Tailwind , React , Zustand , Express , MongoDB",
+    //   img: "./assets/todo.jpeg",
+    //   gitLink: "https://github.com/Karthikeyan-BE/Todo_Mern.git",
+    // },
   ],
 };
