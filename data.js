@@ -6,10 +6,10 @@ export const portfolioData = {
    * User's personal and contact information.
    */
   userData: {
-    name: "Karthikeyan T",
-    shortName: "Karthikeyan",
+    name: "Rithishkumar G",
+    shortName: "Rithish",
     title: "Full-Stack Developer",
-    email: "karthikeyanfsd@gmail.com",
+    email: "rithishkumarbe@gmail.com",
   },
 
   /**
