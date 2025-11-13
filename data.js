@@ -82,13 +82,13 @@ export const portfolioData = {
       img: "./assets/weather.jpeg",
       gitLink: "",
     },
-    // {
-    //   id: 5,
-    //   name: "Todo",
-    //   description:
-    //     "Responsive Todo app with Login Build with Tailwind , React , Zustand , Express , MongoDB",
-    //   img: "./assets/todo.jpeg",
-    //   gitLink: "https://github.com/Karthikeyan-BE/Todo_Mern.git",
-    // },
+    {
+      id: 5,
+      name: "Todo",
+      description:
+        "Responsive Todo app with Login Build with Tailwind , React , Zustand , Express , MongoDB",
+      img: "./assets/todo.jpeg",
+      gitLink: "https://github.com/Karthikeyan-BE/Todo_Mern.git",
+    },
   ],
 };
