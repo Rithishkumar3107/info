@@ -64,7 +64,7 @@ export const portfolioData = {
       name: "Event Management",
       description:
         "Event Management System Using React JS , Express Js , MongoDb and NodeJS ",
-      img: "./assets/gym.png",
+      img: "./assets/EMS.jpg",
       gitLink: "",
     },
     {
@@ -79,7 +79,7 @@ export const portfolioData = {
       id: 4,
       name: "Learning Management System",
       description: "E-Learning Platform using Mern Stack",
-      img: "./assets/weather.jpeg",
+      img: "./assets/LMS.png",
       gitLink: "",
     },
     // {
