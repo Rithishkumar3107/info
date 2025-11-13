@@ -82,7 +82,7 @@ export const portfolioData = {
       img: "./assets/weather.jpeg",
       gitLink: "",
     },
-    {
+    // {
     //   id: 5,
     //   name: "Todo",
     //   description:
